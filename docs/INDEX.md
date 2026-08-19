@@ -5,6 +5,7 @@
 - [Project README](../README.md): Zweck, Scope, Privacy-Grenzen und Status.
 - [Agent Instructions](../AGENTS.md): Arbeits- und Datenregeln für das Repository.
 - [AI Context](AI_CONTEXT.md): kurzer aktueller Arbeitsstand.
+- [Tasks](tasks.md): aktueller nächster Arbeitsschritt.
 - [Methodology](methodology.md): Messmodell, historische Simulation und Calibration Runs.
 - [Roadmap](roadmap.md): geplante Phasen und Gates.
 
